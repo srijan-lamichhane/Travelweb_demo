@@ -1,1 +1,1 @@
-# Travel website demo using html, css and javascript.
+# Travel website (demo) using html, css and javascript.
